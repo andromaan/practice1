@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "build:gh-pages": "tsc -b && vite build --base=/practice1/",
+    "build:gh-pages": "tsc -b && vite build --base=/web-service-deployment/",
     "preview": "vite preview",
     "test": "vitest run",
     "lint": "eslint ."
